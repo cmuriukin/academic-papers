@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec1c4449-3e09-415e-9944-c267e752e7c5" name="Default Changelist" comment="">
+      <changelist_data name="cnyaga" email="" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cnyaga" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f5c98dde-d464-47fe-9adc-e6324bc3e40d" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kbIeW06QHw5hufpeyA2KRUVkjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php (1)">
+    <configuration name="index.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_html/public_html/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_html/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="dbInsert.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/classes/dbInsert.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php (1)" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="PHP Script.dbInsert.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec1c4449-3e09-415e-9944-c267e752e7c5" name="Default Changelist" comment="" />
+      <created>1605962960241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605962960241</updated>
+      <workItem from="1605962961481" duration="1356000" />
+      <workItem from="1605964689587" duration="6470000" />
+      <workItem from="1606036592928" duration="7061000" />
+      <workItem from="1606116637674" duration="1344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="92" key="#CLI_Interpreters" timestamp="1605964259551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="92" key="#CLI_Interpreters/0.0.1536.834@0.0.1536.834" timestamp="1605964259551" />
+    <state x="395" y="95" key="#Inspections" timestamp="1605964109970">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="395" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1605964109970" />
+    <state x="594" y="76" key="#PHP" timestamp="1606035436131">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="475" y="60" key="#PHP/0.0.1536.834@0.0.1536.834" timestamp="1605964354734" />
+    <state x="594" y="76" key="#PHP/0.0.1920.1050@0.0.1920.1050" timestamp="1606035436131" />
+    <state x="194" y="258" key="#SQL_Dialects" timestamp="1605965864784">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="194" y="258" key="#SQL_Dialects/0.0.1536.834@0.0.1536.834" timestamp="1605965864784" />
+    <state x="686" y="240" key="FileChooserDialogImpl" timestamp="1606037968959">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605964486142" />
+    <state x="686" y="240" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1606037968959" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom" timestamp="1606065586562">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1877" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606065586562" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center" timestamp="1606065586562">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1877" height="182" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606065586562" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left" timestamp="1606065586562">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1877" height="182" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606065586562" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right" timestamp="1606065586562">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1877" height="182" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1606065586562" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1605964676781">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605964676781" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1605964676780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1605964676780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1605964676780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1605964676780" />
+    <state width="1493" height="265" key="GridCell.Tab.2.bottom" timestamp="1605964676781">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605964676781" />
+    <state width="1493" height="265" key="GridCell.Tab.2.center" timestamp="1605964676781">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1605964676781" />
+    <state width="1493" height="265" key="GridCell.Tab.2.left" timestamp="1605964676781">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1605964676781" />
+    <state width="1493" height="265" key="GridCell.Tab.2.right" timestamp="1605964676781">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1605964676781" />
+    <state x="346" y="78" key="SettingsEditor" timestamp="1606037976107">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1605964487762" />
+    <state x="346" y="78" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1606037976107" />
+  </component>
+</project>
