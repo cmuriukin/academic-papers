@@ -12,7 +12,7 @@ class Database{
 		
 		$this->host = 'mariadb.c-muriukin-dev.svc.cluster.local';
 		$this->pass = '#andela123';
-		$this->user = 'root';
+		$this->user = 'charles';
 		$this->database = 'newschema';
 		
 	}
