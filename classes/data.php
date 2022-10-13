@@ -10,7 +10,7 @@ class Database{
 	public function __construct()
 	{
 		
-		$this->host = 'localhost';
+		$this->host = 'mariadb.c-muriukin-dev.svc.cluster.local';
 		$this->pass = '#andela123';
 		$this->user = 'root';
 		$this->database = 'newschema';
